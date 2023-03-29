@@ -2,9 +2,10 @@
 
 Leetcode excercises
 
-| Excercise name | Difficulty |
-| -------------- | ---------- |
-| 001_two_sum    |  Easy      |
+| Excercise name        | Difficulty    |
+| --------------------  | ------------  |
+| 001_two_sum           |  Easy         |
+| 009_palindrome_number |  Easy         |
 
 ---
 

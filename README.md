@@ -7,13 +7,11 @@ Leetcode excercises
 | 001_two_sum    |  Easy      |
 
 ---
-<br>
 
 ## Test all excercises
 ```shell
 npm test
 ```
-<br>
 
 ## Run specific excercise
 ```shell

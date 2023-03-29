@@ -8,7 +8,7 @@ Leetcode excercises
 
 ---
 
-## Test all excercises
+## Run all excercises
 ```shell
 npm test
 ```

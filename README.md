@@ -6,6 +6,7 @@ Leetcode excercises
 | --------------------  | ------------  |
 | 001_two_sum           |  Easy         |
 | 009_palindrome_number |  Easy         |
+| 013_roman_to_integer  |  Easy         |
 
 ---
 

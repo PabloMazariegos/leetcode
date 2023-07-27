@@ -7,6 +7,7 @@ Leetcode excercises
 | 001_two_sum           |  Easy         |
 | 009_palindrome_number |  Easy         |
 | 013_roman_to_integer  |  Easy         |
+| 014_longest_common_prefix  |  Easy         |
 
 ---
 
@@ -17,5 +18,5 @@ npm test
 
 ## Run specific excercise
 ```shell
-npm test [excercise name]
+npm test -t [excercise name]
 ```
